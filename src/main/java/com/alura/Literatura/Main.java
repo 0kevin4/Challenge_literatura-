@@ -202,7 +202,7 @@ public class Main {
 
         System.out.println(Choice);
         int option = scanner.nextInt();
-        scanner.nextLine(); // Limpiar el buffer
+        scanner.nextLine();
 
         List<Book> books = new ArrayList<>();
 
